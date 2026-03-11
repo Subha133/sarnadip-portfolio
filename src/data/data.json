@@ -1,0 +1,77 @@
+{
+  "site": {
+    "name": "Swarnadip Dey Portfolio",
+    "navigation": [
+      { "name": "Home",      "link": "#home" },
+      { "name": "About",     "link": "#about" },
+      { "name": "Service",   "link": "#service" },
+      { "name": "Skills",    "link": "#skills" },
+      { "name": "Portfolio", "link": "#portfolio" },
+      { "name": "Contact",   "link": "#contact" }
+    ]
+  },
+  "hero": {
+    "name": "Swarnadip Dey",
+    "title": ["Graphic Designer", "Motion Graphics Artist", "Video Editor"],
+    "photo": "/PROFILE.png",
+    "cta": { "primary": "Let's Talk", "secondary": "Hire Me" },
+    "social_links": [
+      { "platform": "Instagram", "url": "https://www.instagram.com/theswarna_studio/" },
+      { "platform": "WhatsApp",  "url": "https://wa.me/916291187114" },
+      { "platform": "Behance",   "url": "https://www.behance.net/swarnadipdey" }
+    ]
+  },
+  "about": {
+    "title": "About Me",
+    "description": "I'm Swarnadip Dey, a passionate Graphic Designer, Motion Graphics Artist, and Video Editor with a strong eye for visual storytelling. I specialize in creating engaging designs, dynamic motion visuals, and compelling video content that connect with audiences."
+  },
+  "skills_section": {
+    "title": "My Skills",
+    "description": "Tools and software I use to create professional designs and motion graphics.",
+    "software_logos": [
+      { "name": "Adobe Photoshop",    "image": "/images/skills/photoshop.png" },
+      { "name": "Adobe Illustrator",  "image": "/images/skills/illustrator.png" },
+      { "name": "Adobe After Effects","image": "/images/skills/aftereffects.png" },
+      { "name": "Adobe Premiere Pro", "image": "/images/skills/premierepro.png" },
+      { "name": "Adobe InDesign",     "image": "/images/skills/indesign.png" },
+      { "name": "Canva",              "image": "/images/skills/canva.png" }
+    ]
+  },
+  "services": {
+    "title": "Design Services",
+    "items": [
+      "Business Cards & Stationery",
+      "Flyers, Posters, Brochures",
+      "Packaging Design",
+      "Ad Banner Design (Google, Facebook, Instagram, etc.)",
+      "Magazine Layouts",
+      "Book Covers",
+      "Event Invitations",
+      "Cards & Menus",
+      "Signage Design",
+      "Brand Identity Design",
+      "Packaging Design Mockups & Presentations",
+      "Website Layouts",
+      "App / Interface Design",
+      "Landing Page Design",
+      "Video Editing",
+      "Logo Animations",
+      "Social Media Motion Graphics"
+    ]
+  },
+  "portfolio": {
+    "title": "Portfolio",
+    "layout": "carousel",
+    "projects": [
+      { "title": "Durga Puja 2025 Campaign Designs", "category": "Graphic Design",    "image": "/portfolio/durgapuja.jpg" },
+      { "title": "Calcutta Football League Visuals",  "category": "Motion Graphics",   "image": "/portfolio/cfl.jpg" },
+      { "title": "Promotional Video Projects",        "category": "Video Editing",     "image": "/portfolio/video.jpg" }
+    ]
+  },
+  "contact": {
+    "title": "Contact",
+    "email":    "deyswarnadip6@gmail.com",
+    "phone":    "+91 6291187114",
+    "location": "Kolkata, India"
+  }
+}
