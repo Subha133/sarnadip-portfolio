@@ -2,6 +2,7 @@ import data from '@/data/data.json'
 import Navbar          from '@/components/layout/Navbar'
 import Footer          from '@/components/layout/Footer'
 import HeroSection     from '@/components/sections/HeroSection'
+import WorkCarousel    from '@/components/sections/WorkCarousel'
 import AboutSection    from '@/components/sections/AboutSection'
 import ServicesSection from '@/components/sections/ServicesSection'
 import SkillsSection   from '@/components/sections/SkillsSection'
@@ -14,6 +15,7 @@ export default function App() {
       <Navbar navigation={data.site.navigation} siteName={data.site.name} />
       <main>
         <HeroSection      hero={data.hero} />
+        <WorkCarousel />
         <AboutSection     about={data.about} />
         <ServicesSection  services={data.services} />
         <SkillsSection    skills={data.skills_section} />

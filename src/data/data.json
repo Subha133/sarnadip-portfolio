@@ -68,6 +68,43 @@
       { "title": "Promotional Video Projects",        "category": "Video Editing",     "image": "/portfolio/video.jpg" }
     ]
   },
+  "my_work": {
+    "title": "My Work",
+    "images": [
+      "https://res.cloudinary.com/dfstpotvz/image/upload/f_auto,q_auto,w_800/v1773168276/LA_G3_kpwyrw.jpg",
+      "https://res.cloudinary.com/dfstpotvz/image/upload/f_auto,q_auto,w_800/v1773164088/wed_wallpeper_diine8.jpg",
+      "https://res.cloudinary.com/dfstpotvz/image/upload/f_auto,q_auto,w_800/v1773164086/today_ovabmv.jpg",
+      "https://res.cloudinary.com/dfstpotvz/image/upload/f_auto,q_auto,w_800/v1773164081/next_match_final_n5a1ka.jpg",
+      "https://res.cloudinary.com/dfstpotvz/image/upload/f_auto,q_auto,w_800/v1773164079/suraj_mahato_mycihg.jpg",
+      "https://res.cloudinary.com/dfstpotvz/image/upload/f_auto,q_auto,w_800/v1773164077/match_no_7_darft_eleg44.jpg",
+      "https://res.cloudinary.com/dfstpotvz/image/upload/f_auto,q_auto,w_800/v1773164072/poster_cafe_refiwf.jpg",
+      "https://res.cloudinary.com/dfstpotvz/image/upload/f_auto,q_auto,w_800/v1773164074/bss_x_univox_1_bf17lv.jpg",
+      "https://res.cloudinary.com/dfstpotvz/image/upload/f_auto,q_auto,w_800/v1773164069/bss_x_univox_2_p63wfy.jpg",
+      "https://res.cloudinary.com/dfstpotvz/image/upload/f_auto,q_auto,w_800/v1773164066/nextmatch_wmbqtb.png",
+      "https://res.cloudinary.com/dfstpotvz/image/upload/f_auto,q_auto,w_800/v1773164071/10K_fb_qyb9lk.jpg",
+      "https://res.cloudinary.com/dfstpotvz/image/upload/f_auto,q_auto,w_800/v1773164070/banner_for_consecrt1_bnivrh.jpg",
+      "https://res.cloudinary.com/dfstpotvz/image/upload/f_auto,q_auto,w_800/v1773164072/slow_kiss_q1g1pw.jpg",
+      "https://res.cloudinary.com/dfstpotvz/image/upload/f_auto,q_auto,w_800/v1773164076/TCF_SOCAL_MEDIA_POSTER_ppmxsy.jpg",
+      "https://res.cloudinary.com/dfstpotvz/image/upload/f_auto,q_auto,w_800/v1773164080/MATCH_day_noshvt.jpg",
+      "https://res.cloudinary.com/dfstpotvz/image/upload/f_auto,q_auto,w_800/v1773168279/poster_6_La_jpsblo.jpg",
+      "https://res.cloudinary.com/dfstpotvz/image/upload/f_auto,q_auto,w_800/v1773168285/LA_POSTER_1_3_ovghvr.png",
+      "https://res.cloudinary.com/dfstpotvz/image/upload/f_auto,q_auto,w_800/v1773168324/behala_club_opening_mhnpav.png",
+      "https://res.cloudinary.com/dfstpotvz/image/upload/f_auto,q_auto,w_800/v1773168410/4102025_surochi_d94bdu.jpg",
+      "https://res.cloudinary.com/dfstpotvz/image/upload/f_auto,q_auto,w_800/v1773168542/poster_99_p2pdoa.jpg",
+      "https://res.cloudinary.com/dfstpotvz/image/upload/f_auto,q_auto,w_800/v1773168544/ANATH_01_gxuwop.jpg",
+      "https://res.cloudinary.com/dfstpotvz/image/upload/f_auto,q_auto,w_800/v1773168542/poster_ayur_3121_ezkfig.jpg",
+      "https://res.cloudinary.com/dfstpotvz/image/upload/f_auto,q_auto,w_800/v1773168545/poster_67_vtqrp9.jpg",
+      "https://res.cloudinary.com/dfstpotvz/image/upload/f_auto,q_auto,w_800/v1773168411/choch_graphic_utd9eo.jpg",
+      "https://res.cloudinary.com/dfstpotvz/image/upload/f_auto,q_auto,w_800/v1773168283/poster_6_ios6tl.png",
+      "https://res.cloudinary.com/dfstpotvz/image/upload/f_auto,q_auto,w_800/v1773168283/Scholarships_b8cmgw.png",
+      "https://res.cloudinary.com/dfstpotvz/image/upload/f_auto,q_auto,w_800/v1773168324/6th_behala_w7wqbn.jpg",
+      "https://res.cloudinary.com/dfstpotvz/image/upload/f_auto,q_auto,w_800/v1773168548/7-14_feb_ffo9ns.jpg",
+      "https://res.cloudinary.com/dfstpotvz/image/upload/f_auto,q_auto,w_800/v1773168281/poster_5_sqkhlc.png",
+      "https://res.cloudinary.com/dfstpotvz/image/upload/f_auto,q_auto,w_800/v1773164089/womens_ind_cclu9u.jpg",
+      "https://res.cloudinary.com/dfstpotvz/image/upload/f_auto,q_auto,w_800/v1773164069/next_match_vp3aar.jpg",
+      "https://res.cloudinary.com/dfstpotvz/image/upload/f_auto,q_auto,w_800/v1773164068/28_8_25_ifn47g.png"
+    ]
+  },
   "contact": {
     "title": "Contact",
     "email":    "deyswarnadip6@gmail.com",

@@ -39,6 +39,8 @@ export default {
         'spin-slow': 'spin 30s linear infinite',
         'spin-reverse': 'spin-reverse 20s linear infinite',
         'blink': 'blink 1s step-end infinite',
+        marquee: "marquee var(--duration,25s) linear infinite",
+        "marquee-reverse": "marquee-reverse var(--duration,25s) linear infinite"
       },
       keyframes: {
         float: {
@@ -53,6 +55,14 @@ export default {
           '0%, 100%': { opacity: '1' },
           '50%': { opacity: '0' },
         },
+        marquee: {
+          "0%": { transform: "translateX(0%)" },
+          "100%": { transform: "translateX(-50%)" }
+        },
+        "marquee-reverse": {
+          "0%": { transform: "translateX(-50%)" },
+          "100%": { transform: "translateX(0%)" }
+        }
       },
       boxShadow: {
         card: '0 2px 20px rgba(13,13,18,0.5)',
