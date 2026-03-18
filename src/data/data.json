@@ -63,9 +63,12 @@
     "title": "Portfolio",
     "layout": "carousel",
     "projects": [
-      { "title": "Durga Puja 2025 Campaign Designs", "category": "Graphic Design",    "image": "/portfolio/durgapuja.jpg" },
-      { "title": "Calcutta Football League Visuals",  "category": "Motion Graphics",   "image": "/portfolio/cfl.jpg" },
-      { "title": "Promotional Video Projects",        "category": "Video Editing",     "image": "/portfolio/video.jpg" }
+      { "title": "Durga Puja 2025 Campaign Designs", "category": "Graphic Design",    "image": "https://res.cloudinary.com/dfstpotvz/image/upload/f_auto,q_auto,w_800/v1773168276/LA_G3_kpwyrw.jpg" },
+      { "title": "Calcutta Football League Visuals",  "category": "Motion Graphics",   "image": "https://res.cloudinary.com/dfstpotvz/image/upload/f_auto,q_auto,w_800/v1773164088/wed_wallpeper_diine8.jpg" },
+      { "title": "Promotional Video Projects",        "category": "Video Editing",     "image": "https://res.cloudinary.com/dfstpotvz/image/upload/f_auto,q_auto,w_800/v1773164086/today_ovabmv.jpg" },
+      { "title": "Football Match Poster Design",      "category": "Graphic Design",    "image": "https://res.cloudinary.com/dfstpotvz/image/upload/f_auto,q_auto,w_800/v1773164081/next_match_final_n5a1ka.jpg" },
+      { "title": "Brand Identity - Suraj Mahato",     "category": "Graphic Design",    "image": "https://res.cloudinary.com/dfstpotvz/image/upload/f_auto,q_auto,w_800/v1773164079/suraj_mahato_mycihg.jpg" },
+      { "title": "Event Campaign Draft",              "category": "Motion Graphics",   "image": "https://res.cloudinary.com/dfstpotvz/image/upload/f_auto,q_auto,w_800/v1773164077/match_no_7_darft_eleg44.jpg" }
     ]
   },
   "my_work": {

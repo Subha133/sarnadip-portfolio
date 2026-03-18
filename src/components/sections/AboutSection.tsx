@@ -3,7 +3,7 @@ import ScrollReveal from '@/components/ui/ScrollReveal'
 interface AboutData { title: string; description: string }
 
 const stats = [
-  { number: '5+',   label: 'Years Experience' },
+  { number: '3+',   label: 'Years Experience' },
   { number: '200+', label: 'Projects Completed' },
   { number: '50+',  label: 'Happy Clients' },
   { number: '3',    label: 'Core Services' },
