@@ -3,6 +3,7 @@ import { FiArrowLeft, FiArrowRight } from 'react-icons/fi'
 import { motion, AnimatePresence } from 'framer-motion'
 import ScrollReveal from '@/components/ui/ScrollReveal'
 import data from '@/data/data.json'
+import VideoCarousel from './VideoCarousel'
 
 interface Project { title: string; category: string; image: string }
 interface PortfolioData { title: string; layout: string; projects: Project[] }
@@ -279,6 +280,9 @@ export default function PortfolioSection({ portfolio }: { portfolio: PortfolioDa
 
         {/* My Work Subsection */}
         <WorkSubsection />
+
+        {/* Video Gallery Subsection */}
+        <VideoCarousel />
       </div>
     </section>
   )
