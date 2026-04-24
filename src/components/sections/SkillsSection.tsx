@@ -10,6 +10,8 @@ const fallbacks: Record<string, { bg: string; color: string; abbr: string }> = {
   'Adobe After Effects':{ bg: '#00005b', color: '#9999ff', abbr: 'Ae' },
   'Adobe Premiere Pro': { bg: '#00005b', color: '#9999ff', abbr: 'Pr' },
   'Adobe InDesign':     { bg: '#49021f', color: '#ff3366', abbr: 'Id' },
+  'Adobe XD':           { bg: '#470137', color: '#ff61f6', abbr: 'Xd' },
+  'Figma':              { bg: '#1e1e1e', color: '#a259ff', abbr: 'Fg' },
   'Canva':              { bg: '#e8fafb', color: '#00c4cc', abbr: 'Cv' },
 }
 

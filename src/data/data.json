@@ -6,6 +6,7 @@
       { "name": "About",     "link": "#about" },
       { "name": "Service",   "link": "#service" },
       { "name": "Skills",    "link": "#skills" },
+      { "name": "Tools",     "link": "#tools" },
       { "name": "Portfolio", "link": "#portfolio" },
       { "name": "Contact",   "link": "#contact" }
     ]
@@ -34,7 +35,36 @@
       { "name": "Adobe After Effects","image": "/images/skills/aftereffects.png" },
       { "name": "Adobe Premiere Pro", "image": "/images/skills/premierepro.png" },
       { "name": "Adobe InDesign",     "image": "/images/skills/indesign.png" },
+      { "name": "Adobe XD",           "image": "/images/skills/adobexd.png" },
+      { "name": "Figma",              "image": "/images/skills/figma.png" },
       { "name": "Canva",              "image": "/images/skills/canva.png" }
+    ]
+  },
+  "tools_section": {
+    "title": "Tools & Technologies",
+    "description": "A comprehensive list of tools I work with daily.",
+    "tools": [
+      "Adobe Photoshop",
+      "Adobe Illustrator",
+      "Adobe After Effects",
+      "Adobe Premiere Pro",
+      "Adobe InDesign",
+      "Adobe XD",
+      "Canva",
+      "Figma",
+      "Sketch",
+      "Blender",
+      "Cinema 4D",
+      "DaVinci Resolve",
+      "Final Cut Pro",
+      "Affinity Photo",
+      "Affinity Designer",
+      "CorelDRAW",
+      "GIMP",
+      "Inkscape",
+      "LumaFusion",
+      "CapCut",
+      "VN Video Editor"
     ]
   },
   "services": {

@@ -6,6 +6,7 @@ import AboutSection    from '@/components/sections/AboutSection'
 import ServicesSection from '@/components/sections/ServicesSection'
 import CompanyCarousel from '@/components/sections/CompanyCarousel'
 import SkillsSection   from '@/components/sections/SkillsSection'
+import ToolsSection    from '@/components/sections/ToolsSection'
 import PortfolioSection from '@/components/sections/PortfolioSection'
 import ContactSection  from '@/components/sections/ContactSection'
 
@@ -19,6 +20,7 @@ export default function App() {
         <ServicesSection  services={data.services} />
         <CompanyCarousel />
         <SkillsSection    skills={data.skills_section} />
+        <ToolsSection     tools={data.tools_section} />
         <PortfolioSection portfolio={data.portfolio} />
         <ContactSection   contact={data.contact} />
       </main>
